@@ -9,4 +9,4 @@ regional temperature prediction base on ConvLSTM
 - output is (69,53,1). so use previous 3 hours' data to predict the next hour.
 # On test dataset compared with actual data.
 - i chose 2 random days to validate
-- ![validation 1][20181230.png]
+- ![validation 1](20181230.png)
