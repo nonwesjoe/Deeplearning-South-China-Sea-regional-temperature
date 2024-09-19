@@ -10,3 +10,6 @@ regional temperature prediction base on ConvLSTM
 # On test dataset compared with actual data.
 - i chose 2 random days to validate
 - ![validation 1](20181230.png)
+- it shows that the performence is good!
+- ![validation 2](20180430.png)
+
